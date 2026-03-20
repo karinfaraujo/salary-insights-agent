@@ -1,4 +1,3 @@
-
 📊 Salary Insights Report
 
 - Average Salary: $81100.00
