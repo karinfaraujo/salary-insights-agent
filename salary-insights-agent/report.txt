@@ -1,0 +1,23 @@
+
+📊 Salary Insights Report
+
+- Average Salary: $81100.00
+- Highest Paying Role: Machine Learning Engineer ($115000.00)
+
+📈 Salary by Experience:
+
+  - Junior: $54250.00
+  - Mid: $66166.67
+  - Senior: $100800.00
+
+🏠 Salary by Work Type:
+
+  - Hybrid: $77500.00
+  - On-site: $70000.00
+  - Remote: $89200.00
+
+🧠 Key Insights:
+
+- Senior professionals earn 86% more than Junior professionals.
+- Remote jobs tend to offer the highest salaries.
+- Overall salaries are relatively high in this dataset.

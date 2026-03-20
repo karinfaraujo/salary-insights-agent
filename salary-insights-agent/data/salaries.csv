@@ -1,0 +1,21 @@
+Id,EmployeeName,JobTitle,BasePay,ExperienceLevel,WorkType,Location
+1,Ana Silva,Data Analyst,55000,Junior,On-site,Brazil
+2,Carlos Souza,Data Analyst,72000,Mid,Remote,Brazil
+3,Marina Costa,Data Scientist,95000,Senior,Remote,USA
+4,João Pereira,Data Engineer,88000,Senior,Hybrid,Canada
+5,Lucas Martins,BI Analyst,60000,Mid,On-site,Brazil
+6,Fernanda Lima,Data Scientist,105000,Senior,Remote,USA
+7,Rafael Gomes,Machine Learning Engineer,115000,Senior,Remote,Germany
+8,Juliana Rocha,Data Analyst,50000,Junior,Hybrid,Brazil
+9,Bruno Alves,BI Analyst,65000,Mid,Remote,Brazil
+10,Patrícia Mendes,Data Engineer,92000,Senior,On-site,USA
+11,Diego Santos,Data Analyst,58000,Junior,On-site,Brazil
+12,Camila Ribeiro,Data Scientist,99000,Senior,Remote,Canada
+13,Gabriel Fernandes,Machine Learning Engineer,110000,Senior,Hybrid,USA
+14,Amanda Duarte,BI Analyst,70000,Mid,Remote,Brazil
+15,Ricardo Nunes,Data Engineer,87000,Senior,On-site,Germany
+16,Beatriz Carvalho,Data Analyst,62000,Mid,Hybrid,Brazil
+17,Thiago Melo,Data Scientist,97000,Senior,Remote,USA
+18,Vanessa Teixeira,BI Analyst,68000,Mid,On-site,Brazil
+19,Eduardo Barros,Machine Learning Engineer,120000,Senior,Remote,USA
+20,Larissa Azevedo,Data Analyst,54000,Junior,Remote,Brazil
