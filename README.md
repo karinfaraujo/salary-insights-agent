@@ -19,6 +19,7 @@ The agent reads a dataset and simulates the work of a data analyst by extracting
 
 ## 📁 Project Structure
 
+```bash
 salary-insights-agent/
 │
 ├── data/
@@ -29,16 +30,21 @@ salary-insights-agent/
 ├── README.md
 ├── report.txt
 ├── salary_chart.png
+```
 
 ## ▶️ How to run
 
 1. Install dependencies:
 
+```bash
 pip install pandas matplotlib
+```
 
 2. Run the agent:
 
+```bash
 python agent.py
+```
 
 ## 📊 Example Output
 
